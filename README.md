@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat" height="180">
+<img src="./assets/banner.png" alt="Cristofer Guillen GitHub Banner" width="100%">
 
 <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&vCenter=true&width=850&height=60&lines=Hi%2C+I%27m+Cristofer+Guillen+%F0%9F%91%8B;Junior+Web+Developer;Software+Engineering+Student;Backend+Development+%7C+Laravel+%7C+Node.js;PHP+%7C+JavaScript+%7C+PostgreSQL;Building+Web+Applications+and+REST+APIs" alt="Typing SVG" />
 
@@ -30,7 +30,7 @@ Junior Web Developer and Software Engineering student from Cali, Colombia, focus
 
 I have practical experience developing academic and personal web projects using Laravel, PHP, JavaScript, Node.js, Express.js, MySQL and PostgreSQL. I also have experience supporting internal applications, documenting requirements, performing functional validations, reporting issues, and improving system workflows.
 
-I am focused on junior roles in web development, backend development, software development, functional QA, application support, and information management.
+I am currently looking to keep growing as a Junior Web Developer, with a focus on backend development, web applications, REST APIs, and database-driven systems.
 
 <ul>
   <li>🎓 <b>Currently studying:</b> Software Engineering</li>
@@ -44,7 +44,7 @@ I am focused on junior roles in web development, backend development, software d
 
 ---
 
-## 🛠️ My Favorite Tools
+## 🛠️ Technologies & Tools
 
 ### 👨‍💻 Programming Languages
 
@@ -70,13 +70,11 @@ I am focused on junior roles in web development, backend development, software d
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white">
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+### 🗄️ Databases
 
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black">
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-327FC7.svg?logo=github&logoColor=white">
 </p>
 
 ### 💻 Software and Tools
@@ -95,6 +93,8 @@ I am focused on junior roles in web development, backend development, software d
 ---
 
 ## 📝 Recent Projects
+
+Here are some of the projects I have built while practicing backend development, web applications, database design, authentication, role-based access control, and system documentation.
 
 ### MEDICONNECT - Medical Appointment Management System
 
@@ -148,46 +148,6 @@ SaaS project in development focused on reservations, rooms, operational states, 
 
 ---
 
-## 📊 GitHub Stats
-
-<br>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-<table border="0" align="center">
-  <tr border="0">
-    <td width="50%" align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CristoferGuillen&theme=cobalt&show_icons=true&count_private=true&hide_border=true" alt="Cristofer Guillen GitHub Stats" />
-
-<br><br>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CristoferGuillen&theme=dark&hide_border=true" alt="Cristofer Guillen GitHub Streak" />
-
-</td>
-
-<td width="50%" align="center">
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CristoferGuillen&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="Most Used Languages" />
-
-</td>
-  </tr>
-</table>
-
-<br>
-
-<p align="center">
-  <b>Note:</b> Most used languages are based on my public repositories and do not necessarily reflect my full experience or skill level.
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
----
-
 ## 🎓 Education & Certifications
 
 ### Education
@@ -206,6 +166,46 @@ SaaS project in development focused on reservations, rooms, operational states, 
 - JavaScript Essentials 1 - Cisco
 - Introduction to Cybersecurity - Cisco
 - Ethical Hacker - Cisco
+
+---
+
+## 📊 GitHub Stats
+
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<table border="0" align="center">
+  <tr border="0">
+    <td width="50%" align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=CristoferGuillen&theme=cobalt&show_icons=true&count_private=true&hide_border=true" alt="Cristofer Guillen GitHub Stats" />
+
+<br><br>
+
+<img align="center" src="https://streak-stats.demolab.com?user=CristoferGuillen&theme=dark&hide_border=true" alt="Cristofer Guillen GitHub Streak" />
+
+</td>
+
+<td width="50%" align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristoferGuillen&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Most Used Languages" />
+
+</td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <b>Note:</b> Most used languages are based on my public repositories and do not necessarily reflect my full experience or skill level.
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ---
 
