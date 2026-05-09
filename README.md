@@ -181,11 +181,7 @@ SaaS project in development focused on reservations, rooms, operational states, 
 <tr border="0">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CristoferGuillen&theme=cobalt&show_icons=true&count_private=true" />
-  
-  <br></br>
-  
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=CristoferGuillen&theme=dark&hide_border=true" />
+  <img title="🔥 GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=CristoferGuillen&theme=dark&hide_border=true" />
 
 </td>
 
