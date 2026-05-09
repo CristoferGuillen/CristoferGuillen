@@ -2,17 +2,17 @@
 
 <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat" height="180">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Cristofer+Guillen+%F0%9F%91%8B;Junior+Web+Developer;Software+Engineering+Student;Laravel+%7C+PHP+%7C+JavaScript+%7C+MySQL;Functional+QA+%7C+Application+Support" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&vCenter=true&width=850&height=60&lines=Hi%2C+I%27m+Cristofer+Guillen+%F0%9F%91%8B;Junior+Web+Developer;Software+Engineering+Student;Backend+Development+%7C+Laravel+%7C+Node.js;PHP+%7C+JavaScript+%7C+PostgreSQL;Building+Web+Applications+and+REST+APIs" alt="Typing SVG" />
 
 <br>
 
 <a href="mailto:guillencristofer911@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://www.linkedin.com/in/TU_LINKEDIN/">
+<a href="https://www.linkedin.com/in/cristofer-guillen-858743386/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/TU_USUARIO_GITHUB">
+<a href="https://github.com/CristoferGuillen">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
@@ -23,21 +23,22 @@
 ## 👨‍💻 About Me
 
 <strong>
-Junior Web Developer and Software Engineering student from Cali, Colombia, with practical experience in application support, functional QA, technical documentation, requirements analysis, and web development.
+Junior Web Developer and Software Engineering student from Cali, Colombia, focused on building web applications, backend systems, REST APIs, and database-driven solutions.
 </strong>
 
 <br><br>
 
-I have worked with internal applications used by organizational users, supporting functional validation, user documentation, issue reporting, interface improvements, and requirements tracking.
+I have practical experience developing academic and personal web projects using Laravel, PHP, JavaScript, Node.js, Express.js, MySQL and PostgreSQL. I also have experience supporting internal applications, documenting requirements, performing functional validations, reporting issues, and improving system workflows.
 
-I am focused on junior roles in software development, web development, backend development, functional QA, application support, and information management.
+I am focused on junior roles in web development, backend development, software development, functional QA, application support, and information management.
 
 <ul>
   <li>🎓 <b>Currently studying:</b> Software Engineering</li>
-  <li>💻 <b>Main stack:</b> Laravel, PHP, JavaScript, MySQL, Node.js and Express.js</li>
-  <li>🧪 <b>Experience with:</b> Functional testing, application support, SRS documentation and user manuals</li>
+  <li>💻 <b>Main stack:</b> Laravel, PHP, JavaScript, PostgreSQL, Node.js and Express.js</li>
+  <li>🧩 <b>Focused on:</b> Web applications, backend development, REST APIs and database-driven systems</li>
+  <li>🧪 <b>Additional experience:</b> Functional testing, application support, SRS documentation and user manuals</li>
   <li>📊 <b>Interested in:</b> Backend development, QA, data organization and business applications</li>
-  <li>🌱 <b>Currently learning:</b> Better backend architecture, REST APIs, PostgreSQL and data analysis with Python</li>
+  <li>🌱 <b>Currently learning:</b> Backend architecture, REST APIs, PostgreSQL and data analysis with Python</li>
   <li>📫 <b>Reach me at:</b> <a href="mailto:guillencristofer911@gmail.com">guillencristofer911@gmail.com</a></li>
 </ul>
 
@@ -62,6 +63,7 @@ I am focused on junior roles in software development, web development, backend d
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white">
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white">
   <img alt="Livewire" src="https://img.shields.io/badge/Livewire-4E56A6.svg?logo=livewire&logoColor=white">
+  <img alt="Filament" src="https://img.shields.io/badge/Filament-FDAE4B.svg?logo=laravel&logoColor=black">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?logo=tailwindcss&logoColor=white">
   <img alt="Alpine.js" src="https://img.shields.io/badge/Alpine.js-8BC0D0.svg?logo=alpinedotjs&logoColor=black">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
@@ -85,6 +87,7 @@ I am focused on junior roles in software development, web development, backend d
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D7.svg?logo=visual-studio-code&logoColor=white">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white">
   <img alt="Excel" src="https://img.shields.io/badge/Excel-217346.svg?logo=microsoft-excel&logoColor=white">
+  <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01.svg?logo=microsoftoffice&logoColor=white">
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white">
   <img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00.svg?logo=googlecolab&logoColor=white">
 </p>
@@ -93,7 +96,7 @@ I am focused on junior roles in software development, web development, backend d
 
 ## 📝 Recent Projects
 
-### [MEDICONNECT - Medical Appointment Management System](https://github.com/TU_USUARIO_GITHUB/mediconnect)
+### MEDICONNECT - Medical Appointment Management System
 
 Web platform for managing medical appointments, user administration and doctor availability.
 
@@ -106,7 +109,7 @@ Web platform for managing medical appointments, user administration and doctor a
 
 ---
 
-### [BIBLIOTECH - Library Management System](https://github.com/TU_USUARIO_GITHUB/bibliotech)
+### BIBLIOTECH - Library Management System
 
 Web application for managing books, users, loans, returns and library records.
 
@@ -119,7 +122,7 @@ Web application for managing books, users, loans, returns and library records.
 
 ---
 
-### [SIP - Academic Interactive Portal](https://github.com/TU_USUARIO_GITHUB/sip)
+### SIP - Academic Interactive Portal
 
 Academic web portal focused on publications, projects, comments, favorites, content reports and user administration.
 
@@ -132,7 +135,7 @@ Academic web portal focused on publications, projects, comments, favorites, cont
 
 ---
 
-### [HOSTIFY - Hotel Management System](https://github.com/TU_USUARIO_GITHUB/hostify)
+### HOSTIFY - Hotel Management System
 
 SaaS project in development focused on reservations, rooms, operational states, check-in/check-out and small hotel administration.
 
@@ -148,19 +151,40 @@ SaaS project in development focused on reservations, rooms, operational states, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dark&hide_border=true" alt="Cristofer Guillen GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=dark&hide_border=true" alt="Cristofer Guillen GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CristoferGuillen&show_icons=true&theme=dark&hide_border=true" alt="Cristofer Guillen GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=CristoferGuillen&theme=dark&hide_border=true" alt="Cristofer Guillen GitHub Streak" />
 </p>
 
 <br>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Most Used Languages" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristoferGuillen&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Most Used Languages" />
 </p>
 
 <p align="center">
   <b>Note:</b> Most used languages are based on my public repositories and do not necessarily reflect my full experience or skill level.
 </p>
+
+---
+
+## 🎓 Education & Certifications
+
+### Education
+
+- Software Engineering - In progress  
+  Corporación Universitaria Iberoamericana
+
+- Software Programming Technician  
+  SENA
+
+### Certifications & Courses
+
+- Excel Intermedio - SENA
+- Análisis Exploratorio de Datos con Python - SENA
+- Python Essentials 1 - Cisco
+- JavaScript Essentials 1 - Cisco
+- Introduction to Cybersecurity - Cisco
+- Ethical Hacker - Cisco
 
 ---
 
@@ -170,10 +194,10 @@ SaaS project in development focused on reservations, rooms, operational states, 
   <a href="mailto:guillencristofer911@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/cristofer-guillen-858743386/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/TU_USUARIO_GITHUB">
+  <a href="https://github.com/CristoferGuillen">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
