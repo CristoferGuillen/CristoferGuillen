@@ -150,19 +150,40 @@ SaaS project in development focused on reservations, rooms, operational states, 
 
 ## 📊 GitHub Stats
 
+<br>
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CristoferGuillen&show_icons=true&theme=dark&hide_border=true" alt="Cristofer Guillen GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=CristoferGuillen&theme=dark&hide_border=true" alt="Cristofer Guillen GitHub Streak" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+
+<table border="0" align="center">
+  <tr border="0">
+    <td width="50%" align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=CristoferGuillen&theme=cobalt&show_icons=true&count_private=true&hide_border=true" alt="Cristofer Guillen GitHub Stats" />
+
+<br><br>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CristoferGuillen&theme=dark&hide_border=true" alt="Cristofer Guillen GitHub Streak" />
+
+</td>
+
+<td width="50%" align="center">
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CristoferGuillen&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="Most Used Languages" />
+
+</td>
+  </tr>
+</table>
 
 <br>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristoferGuillen&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Most Used Languages" />
+  <b>Note:</b> Most used languages are based on my public repositories and do not necessarily reflect my full experience or skill level.
 </p>
 
 <p align="center">
-  <b>Note:</b> Most used languages are based on my public repositories and do not necessarily reflect my full experience or skill level.
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 ---
