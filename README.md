@@ -23,23 +23,23 @@
 ## 👨‍💻 Sobre mí
 
 <strong>
-Desarrollador Web Junior y estudiante de Ingeniería de Software de Cali, Colombia, enfocado en la construcción de aplicaciones web, sistemas backend, APIs REST y soluciones basadas en bases de datos.
+Desarrollador Web Junior y estudiante de Ingeniería de Software en Cali, Colombia. Me enfoco en el desarrollo de aplicaciones web, sistemas backend, APIs REST y soluciones con gestión estructurada de datos.
 </strong>
 
 <br><br>
 
-Tengo experiencia práctica desarrollando proyectos web académicos y personales utilizando Laravel, PHP, JavaScript, Node.js, Express.js, MySQL y PostgreSQL. También tengo experiencia apoyando aplicaciones internas, documentando requerimientos, realizando validaciones funcionales, reportando incidencias y mejorando flujos de sistemas.
+Tengo experiencia práctica desarrollando proyectos web académicos y personales con Laravel, PHP, JavaScript, Node.js, Express.js, MySQL y PostgreSQL. También he apoyado aplicaciones internas mediante documentación de requerimientos, validaciones funcionales, reporte de incidencias y mejora de flujos dentro del sistema.
 
-Actualmente busco seguir creciendo como Desarrollador Web Junior, con enfoque en desarrollo backend, aplicaciones web, APIs REST y sistemas basados en bases de datos.
+Actualmente busco seguir creciendo como Desarrollador Web Junior, especialmente en desarrollo backend, aplicaciones web, APIs REST y sistemas que requieren manejo organizado de información.
 
 <ul>
   <li>🎓 <b>Actualmente estudio:</b> Ingeniería de Software</li>
   <li>💻 <b>Stack principal:</b> Laravel, PHP, JavaScript, PostgreSQL, Node.js y Express.js</li>
-  <li>🧩 <b>Enfocado en:</b> Aplicaciones web, desarrollo backend, APIs REST y sistemas basados en bases de datos</li>
-  <li>🧪 <b>Experiencia adicional:</b> Pruebas funcionales, soporte de aplicaciones, documentación SRS y manuales de usuario</li>
-  <li>📊 <b>Interesado en:</b> Desarrollo backend, QA, organización de datos y aplicaciones empresariales</li>
-  <li>🌱 <b>Actualmente aprendiendo:</b> Arquitectura backend, APIs REST, PostgreSQL y análisis de datos con Python</li>
-  <li>📫 <b>Contáctame en:</b> <a href="mailto:guillencristofer911@gmail.com">guillencristofer911@gmail.com</a></li>
+  <li>🧩 <b>Me enfoco en:</b> Aplicaciones web, desarrollo backend, APIs REST y gestión de datos</li>
+  <li>🧪 <b>Experiencia adicional:</b> Pruebas funcionales, soporte de aplicaciones, documentación de requerimientos SRS y manuales de usuario</li>
+  <li>📊 <b>Áreas de interés:</b> Desarrollo backend, QA, organización de datos y aplicaciones empresariales</li>
+  <li>🌱 <b>Actualmente estoy aprendiendo:</b> Arquitectura backend, APIs REST, PostgreSQL y análisis de datos con Python</li>
+  <li>📫 <b>Correo de contacto:</b> <a href="mailto:guillencristofer911@gmail.com">guillencristofer911@gmail.com</a></li>
 </ul>
 
 ---
@@ -94,57 +94,70 @@ Actualmente busco seguir creciendo como Desarrollador Web Junior, con enfoque en
 
 ## 📝 Proyectos recientes
 
-Estos son algunos de los proyectos que he construido mientras practico desarrollo backend, aplicaciones web, diseño de bases de datos, autenticación, control de acceso basado en roles y documentación de sistemas.
+Estos son algunos de los proyectos que he desarrollado mientras fortalecía mis habilidades en backend, aplicaciones web, diseño de bases de datos, autenticación, control de acceso basado en roles y documentación técnica.
 
-### MEDICONNECT - Sistema de Gestión de Citas Médicas
+### [MEDICONNECT - Sistema de Gestión de Citas Médicas](https://github.com/CristoferGuillen/Gestion-Citas-Medicas)
 
-Plataforma web para gestionar citas médicas, administración de usuarios y disponibilidad de doctores.
+Plataforma web para administrar citas médicas, usuarios y disponibilidad de doctores.
 
-**Stack tecnológico:** Laravel 12, PHP 8.2, MySQL, Blade, Tailwind CSS
+**Tecnologías usadas:** Laravel 12, PHP 8.2, MySQL, Blade, Tailwind CSS
 
 - Implementé control de acceso basado en roles para pacientes, doctores y administradores.
-- Desarrollé funcionalidades para solicitud, confirmación, rechazo y disponibilidad de horarios de citas.
-- Agregué validaciones para fechas futuras, horarios disponibles y prevención de citas duplicadas.
-- Apliqué la estructura MVC de Laravel utilizando controladores, seeders, middleware y relaciones de base de datos.
+- Desarrollé funcionalidades para solicitar, confirmar, rechazar y consultar disponibilidad de citas.
+- Agregué validaciones para fechas futuras, disponibilidad de horarios y prevención de citas duplicadas.
+- Apliqué la estructura MVC de Laravel usando controladores, seeders, middleware y relaciones entre tablas.
 
 ---
 
-### BIBLIOTECH - Sistema de Gestión de Biblioteca
+### [BIBLIOTECH - Sistema de Gestión de Biblioteca](https://github.com/CristoferGuillen/BiblioTech)
 
-Aplicación web para gestionar libros, usuarios, préstamos, devoluciones y registros de biblioteca.
+Aplicación web para administrar libros, usuarios, préstamos, devoluciones e historial de biblioteca.
 
-**Stack tecnológico:** Laravel 12, PHP 8.2, Livewire 3, MySQL, Tailwind CSS, Alpine.js
+**Tecnologías usadas:** Laravel 12, PHP 8.2, Livewire 3, MySQL, Tailwind CSS, Alpine.js
 
 - Desarrollé la gestión de préstamos y devoluciones de libros con cálculo automático de fechas.
 - Implementé administración de usuarios, libros y roles.
-- Integré componentes reactivos con Livewire para mejorar la interacción del usuario.
+- Integré componentes reactivos con Livewire para mejorar la experiencia del usuario.
 - Creé documentación técnica y diagramas del sistema para facilitar su mantenimiento.
 
 ---
 
-### SIP - Portal Interactivo Académico
+### [SIP - Portal Interactivo Académico](https://github.com/CristoferGuillen/SIP)
 
-Portal web académico enfocado en publicaciones, proyectos, comentarios, favoritos, reportes de contenido y administración de usuarios.
+Portal web académico para gestionar publicaciones, proyectos, comentarios, favoritos, reportes de contenido y usuarios.
 
-**Stack tecnológico:** Node.js, Express.js, JavaScript, MySQL, JWT, bcrypt, Multer
+**Tecnologías usadas:** Node.js, Express.js, JavaScript, MySQL, JWT, bcrypt, Multer
 
 - Construí una API REST con autenticación JWT y control de acceso basado en roles.
 - Implementé gestión de usuarios para administradores, estudiantes y egresados.
-- Agregué funcionalidades de carga de documentos y contenido multimedia usando Multer.
-- Desarrollé funciones administrativas para gestión de contenido, seguimiento de reportes y moderación.
+- Agregué funcionalidades para carga de archivos, documentos y contenido multimedia usando Multer.
+- Desarrollé herramientas administrativas para gestión de contenido, seguimiento de reportes y moderación.
 
 ---
 
-### HOSTIFY - Sistema de Gestión Hotelera
+### [HOSTIFY - Sistema de Gestión Hotelera](https://github.com/CristoferGuillen/Hostify)
 
-Proyecto SaaS en desarrollo enfocado en reservas, habitaciones, estados operativos, check-in/check-out y administración de pequeños hoteles.
+Proyecto SaaS en desarrollo para apoyar la gestión de pequeños hoteles, incluyendo reservas, habitaciones, estados operativos y procesos de check-in/check-out.
 
-**Stack tecnológico:** Laravel, PHP, Filament, PostgreSQL, Tailwind CSS
+**Tecnologías usadas:** Laravel, PHP, Filament, PostgreSQL, Tailwind CSS
 
-- Diseñé módulos de gestión de reservas y disponibilidad.
-- Utilicé Filament para construir paneles administrativos orientados a la gestión operativa.
-- Estructuré la información de habitaciones, reservas y estados de recursos.
-- Me enfoqué en la gestión de información, organización de procesos y trazabilidad operativa.
+- Diseñé módulos para gestionar reservas y disponibilidad de habitaciones.
+- Utilicé Filament para construir paneles administrativos orientados a la operación del hotel.
+- Estructuré información relacionada con habitaciones, reservas y estados de los recursos.
+- Me enfoqué en la organización de procesos, gestión de información y seguimiento de operaciones.
+
+---
+
+### [PYMESTOCK - Sistema de Gestión de Inventario](https://github.com/CristoferGuillen/PymeStock)
+
+Aplicación orientada a la gestión de inventario y control de productos para pequeñas empresas.
+
+**Tecnologías usadas:** Laravel, PHP, MySQL, Blade, Tailwind CSS
+
+- Desarrollé funcionalidades para registrar, consultar y administrar productos.
+- Implementé módulos orientados al control de inventario y organización de información comercial.
+- Apliqué estructura MVC para separar la lógica del sistema, las vistas y el acceso a datos.
+- Enfoqué el proyecto en la gestión clara de productos, existencias y procesos básicos de una pyme.
 
 ---
 
@@ -196,7 +209,7 @@ Proyecto SaaS en desarrollo enfocado en reservas, habitaciones, estados operativ
 <br>
 
 <p align="center">
-  <b>Nota:</b> Los lenguajes más usados se basan en mis repositorios públicos y no necesariamente reflejan toda mi experiencia o nivel de habilidad.
+  <b>Nota:</b> Los lenguajes más usados se basan en mis repositorios públicos y no necesariamente reflejan toda mi experiencia ni mi nivel completo de habilidad.
 </p>
 
 <p align="center">
@@ -205,7 +218,7 @@ Proyecto SaaS en desarrollo enfocado en reservas, habitaciones, estados operativ
 
 ---
 
-## 🤝 Contacta conmigo
+## 🤝 Contacto
 
 <p align="center">
   <a href="mailto:guillencristofer911@gmail.com">
