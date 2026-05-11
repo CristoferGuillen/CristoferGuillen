@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Cristofer Guillen GitHub Banner" width="100%">
+<img src="./assets/banner.png" alt="Banner de GitHub de Cristofer Guillen" width="100%">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&vCenter=true&width=850&height=60&lines=Hi%2C+I%27m+Cristofer+Guillen+%F0%9F%91%8B;Junior+Web+Developer;Software+Engineering+Student;Backend+Development+%7C+Laravel+%7C+Node.js;PHP+%7C+JavaScript+%7C+PostgreSQL;Building+Web+Applications+and+REST+APIs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&vCenter=true&width=850&height=60&lines=Hola%2C+soy+Cristofer+Guillen+%F0%9F%91%8B;Desarrollador+Web+Junior;Estudiante+de+Ingenier%C3%ADa+de+Software;Desarrollo+Backend+%7C+Laravel+%7C+Node.js;PHP+%7C+JavaScript+%7C+PostgreSQL;Construyendo+aplicaciones+web+y+APIs+REST" alt="Texto animado" />
 
 <br>
 
@@ -20,33 +20,33 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mí
 
 <strong>
-Junior Web Developer and Software Engineering student from Cali, Colombia, focused on building web applications, backend systems, REST APIs, and database-driven solutions.
+Desarrollador Web Junior y estudiante de Ingeniería de Software de Cali, Colombia, enfocado en la construcción de aplicaciones web, sistemas backend, APIs REST y soluciones basadas en bases de datos.
 </strong>
 
 <br><br>
 
-I have practical experience developing academic and personal web projects using Laravel, PHP, JavaScript, Node.js, Express.js, MySQL and PostgreSQL. I also have experience supporting internal applications, documenting requirements, performing functional validations, reporting issues, and improving system workflows.
+Tengo experiencia práctica desarrollando proyectos web académicos y personales utilizando Laravel, PHP, JavaScript, Node.js, Express.js, MySQL y PostgreSQL. También tengo experiencia apoyando aplicaciones internas, documentando requerimientos, realizando validaciones funcionales, reportando incidencias y mejorando flujos de sistemas.
 
-I am currently looking to keep growing as a Junior Web Developer, with a focus on backend development, web applications, REST APIs, and database-driven systems.
+Actualmente busco seguir creciendo como Desarrollador Web Junior, con enfoque en desarrollo backend, aplicaciones web, APIs REST y sistemas basados en bases de datos.
 
 <ul>
-  <li>🎓 <b>Currently studying:</b> Software Engineering</li>
-  <li>💻 <b>Main stack:</b> Laravel, PHP, JavaScript, PostgreSQL, Node.js and Express.js</li>
-  <li>🧩 <b>Focused on:</b> Web applications, backend development, REST APIs and database-driven systems</li>
-  <li>🧪 <b>Additional experience:</b> Functional testing, application support, SRS documentation and user manuals</li>
-  <li>📊 <b>Interested in:</b> Backend development, QA, data organization and business applications</li>
-  <li>🌱 <b>Currently learning:</b> Backend architecture, REST APIs, PostgreSQL and data analysis with Python</li>
-  <li>📫 <b>Reach me at:</b> <a href="mailto:guillencristofer911@gmail.com">guillencristofer911@gmail.com</a></li>
+  <li>🎓 <b>Actualmente estudio:</b> Ingeniería de Software</li>
+  <li>💻 <b>Stack principal:</b> Laravel, PHP, JavaScript, PostgreSQL, Node.js y Express.js</li>
+  <li>🧩 <b>Enfocado en:</b> Aplicaciones web, desarrollo backend, APIs REST y sistemas basados en bases de datos</li>
+  <li>🧪 <b>Experiencia adicional:</b> Pruebas funcionales, soporte de aplicaciones, documentación SRS y manuales de usuario</li>
+  <li>📊 <b>Interesado en:</b> Desarrollo backend, QA, organización de datos y aplicaciones empresariales</li>
+  <li>🌱 <b>Actualmente aprendiendo:</b> Arquitectura backend, APIs REST, PostgreSQL y análisis de datos con Python</li>
+  <li>📫 <b>Contáctame en:</b> <a href="mailto:guillencristofer911@gmail.com">guillencristofer911@gmail.com</a></li>
 </ul>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tecnologías y herramientas
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Lenguajes de programación
 
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
@@ -55,7 +55,7 @@ I am currently looking to keep growing as a Junior Web Developer, with a focus o
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk&logoColor=white">
 </p>
 
-### 🧰 Frameworks and Libraries
+### 🧰 Frameworks y librerías
 
 <p>
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white">
@@ -70,14 +70,14 @@ I am currently looking to keep growing as a Junior Web Developer, with a focus o
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white">
 </p>
 
-### 🗄️ Databases
+### 🗄️ Bases de datos
 
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
 </p>
 
-### 💻 Software and Tools
+### 💻 Software y herramientas
 
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
@@ -92,73 +92,73 @@ I am currently looking to keep growing as a Junior Web Developer, with a focus o
 
 ---
 
-## 📝 Recent Projects
+## 📝 Proyectos recientes
 
-Here are some of the projects I have built while practicing backend development, web applications, database design, authentication, role-based access control, and system documentation.
+Estos son algunos de los proyectos que he construido mientras practico desarrollo backend, aplicaciones web, diseño de bases de datos, autenticación, control de acceso basado en roles y documentación de sistemas.
 
-### MEDICONNECT - Medical Appointment Management System
+### MEDICONNECT - Sistema de Gestión de Citas Médicas
 
-Web platform for managing medical appointments, user administration and doctor availability.
+Plataforma web para gestionar citas médicas, administración de usuarios y disponibilidad de doctores.
 
-**Tech Stack:** Laravel 12, PHP 8.2, MySQL, Blade, Tailwind CSS
+**Stack tecnológico:** Laravel 12, PHP 8.2, MySQL, Blade, Tailwind CSS
 
-- Implemented role-based access control for patients, doctors and administrators.
-- Developed appointment request, confirmation, rejection and schedule availability features.
-- Added validations for future dates, available schedules and duplicate appointment prevention.
-- Applied Laravel MVC structure using controllers, seeders, middleware and database relationships.
-
----
-
-### BIBLIOTECH - Library Management System
-
-Web application for managing books, users, loans, returns and library records.
-
-**Tech Stack:** Laravel 12, PHP 8.2, Livewire 3, MySQL, Tailwind CSS, Alpine.js
-
-- Developed book loan and return management with automatic date calculation.
-- Implemented user, book and role administration.
-- Integrated reactive components with Livewire to improve user interaction.
-- Created technical documentation and system diagrams for better maintainability.
+- Implementé control de acceso basado en roles para pacientes, doctores y administradores.
+- Desarrollé funcionalidades para solicitud, confirmación, rechazo y disponibilidad de horarios de citas.
+- Agregué validaciones para fechas futuras, horarios disponibles y prevención de citas duplicadas.
+- Apliqué la estructura MVC de Laravel utilizando controladores, seeders, middleware y relaciones de base de datos.
 
 ---
 
-### SIP - Academic Interactive Portal
+### BIBLIOTECH - Sistema de Gestión de Biblioteca
 
-Academic web portal focused on publications, projects, comments, favorites, content reports and user administration.
+Aplicación web para gestionar libros, usuarios, préstamos, devoluciones y registros de biblioteca.
 
-**Tech Stack:** Node.js, Express.js, JavaScript, MySQL, JWT, bcrypt, Multer
+**Stack tecnológico:** Laravel 12, PHP 8.2, Livewire 3, MySQL, Tailwind CSS, Alpine.js
 
-- Built a REST API with JWT authentication and role-based access control.
-- Implemented user management for administrators, students and graduates.
-- Added multimedia and document upload features using Multer.
-- Developed administrative features for content management, report tracking and moderation.
-
----
-
-### HOSTIFY - Hotel Management System
-
-SaaS project in development focused on reservations, rooms, operational states, check-in/check-out and small hotel administration.
-
-**Tech Stack:** Laravel, PHP, Filament, PostgreSQL, Tailwind CSS
-
-- Designed reservation and availability management modules.
-- Used Filament to build administrative panels for operational management.
-- Structured room, reservation and resource status information.
-- Focused on information management, process organization and operational traceability.
+- Desarrollé la gestión de préstamos y devoluciones de libros con cálculo automático de fechas.
+- Implementé administración de usuarios, libros y roles.
+- Integré componentes reactivos con Livewire para mejorar la interacción del usuario.
+- Creé documentación técnica y diagramas del sistema para facilitar su mantenimiento.
 
 ---
 
-## 🎓 Education & Certifications
+### SIP - Portal Interactivo Académico
 
-### Education
+Portal web académico enfocado en publicaciones, proyectos, comentarios, favoritos, reportes de contenido y administración de usuarios.
 
-- Software Engineering - In progress  
+**Stack tecnológico:** Node.js, Express.js, JavaScript, MySQL, JWT, bcrypt, Multer
+
+- Construí una API REST con autenticación JWT y control de acceso basado en roles.
+- Implementé gestión de usuarios para administradores, estudiantes y egresados.
+- Agregué funcionalidades de carga de documentos y contenido multimedia usando Multer.
+- Desarrollé funciones administrativas para gestión de contenido, seguimiento de reportes y moderación.
+
+---
+
+### HOSTIFY - Sistema de Gestión Hotelera
+
+Proyecto SaaS en desarrollo enfocado en reservas, habitaciones, estados operativos, check-in/check-out y administración de pequeños hoteles.
+
+**Stack tecnológico:** Laravel, PHP, Filament, PostgreSQL, Tailwind CSS
+
+- Diseñé módulos de gestión de reservas y disponibilidad.
+- Utilicé Filament para construir paneles administrativos orientados a la gestión operativa.
+- Estructuré la información de habitaciones, reservas y estados de recursos.
+- Me enfoqué en la gestión de información, organización de procesos y trazabilidad operativa.
+
+---
+
+## 🎓 Educación y certificaciones
+
+### Educación
+
+- Ingeniería de Software - En curso  
   Corporación Universitaria Iberoamericana
 
-- Software Programming Technician  
+- Técnico en Programación de Software  
   SENA
 
-### Certifications & Courses
+### Certificaciones y cursos
 
 - Excel Intermedio - SENA
 - Análisis Exploratorio de Datos con Python - SENA
@@ -169,7 +169,7 @@ SaaS project in development focused on reservations, rooms, operational states, 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <br>
 
@@ -181,7 +181,7 @@ SaaS project in development focused on reservations, rooms, operational states, 
 <tr border="0">
 <td width="50%" align="center">
   
-  <img title="🔥 GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=CristoferGuillen&theme=dark&hide_border=true" />
+  <img title="🔥 Estadísticas de racha en GitHub" src="https://github-readme-streak-stats.herokuapp.com/?user=CristoferGuillen&theme=dark&hide_border=true" />
 
 </td>
 
@@ -196,7 +196,7 @@ SaaS project in development focused on reservations, rooms, operational states, 
 <br>
 
 <p align="center">
-  <b>Note:</b> Most used languages are based on my public repositories and do not necessarily reflect my full experience or skill level.
+  <b>Nota:</b> Los lenguajes más usados se basan en mis repositorios públicos y no necesariamente reflejan toda mi experiencia o nivel de habilidad.
 </p>
 
 <p align="center">
@@ -205,7 +205,7 @@ SaaS project in development focused on reservations, rooms, operational states, 
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Contacta conmigo
 
 <p align="center">
   <a href="mailto:guillencristofer911@gmail.com">
@@ -223,6 +223,6 @@ SaaS project in development focused on reservations, rooms, operational states, 
 
 <div align="center">
 
-⭐️ Thanks for visiting my profile!
+⭐️ ¡Gracias por visitar mi perfil!
 
 </div>
